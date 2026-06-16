@@ -54,6 +54,7 @@ Conventional IoT firmware update methods use centralized systems, prone to secur
 ## ⚙️ Tech Stack
 
 | Layer           | Technology                                       | 
+|-----------------|--------------------------------------------------|
 | Blockchain      | Solidity, Ganache, Ethereum (private)            |
 | Smart Contracts | Firmware version, hash, signature storage        |
 | Firmware Broker | Raspberry Pi 3B                                  |
